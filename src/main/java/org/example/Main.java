@@ -11,7 +11,6 @@ public class Main {
                 "C Z"
         };
 
-
         System.out.println("SZCZEGOLY GRY\n");
         for (int i = 0; i < dane.length; i++) {
             if (!dane[i].trim().isEmpty()) {
